@@ -24,7 +24,7 @@
 1. Fonts
 ***********/
 
-@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900');
 
 /*********************************
 2. Body and some general stuff
@@ -40,7 +40,7 @@
 }
 body
 {
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	font-weight: 400;
 	background: #FFFFFF;
@@ -61,7 +61,7 @@ ul
 }
 p
 {
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	line-height: 2.14;
 	font-weight: 400;
